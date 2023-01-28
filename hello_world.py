@@ -1,4 +1,4 @@
-# Tutaj pisz swój kod, młody padawanie ;-)
+
 print('Hello World')
 print ("Hello World2")
 
