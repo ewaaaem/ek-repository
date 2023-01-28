@@ -1,16 +1,16 @@
 #pętla for
 
-#for i in range (10):
-#    print(i,'Ewa')
+for i in range (10):
+    print(i,'Ewa')
 
-#for i in range (0,10,1):
-#    print(i,'pętla')
+for i in range (0,10,1):
+    print(i,'pętla')
 
-#for i in range (5,100,10):
-#    print(i,'co 10')
+for i in range (5,100,10):
+    print(i,'co 10')
 
-#for i in range (100,10,-2):
-#    print(i,'pętla')
+for i in range (100,10,-2):
+    print(i,'pętla')
 
 #zadanie
 #zsumuj wszystkie liczby parzyste od 0 do 100
