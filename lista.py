@@ -1,4 +1,4 @@
-# Tutaj pisz swój kod, młody padawanie ;-)
+
 a=5
 b='Diana'
 lista=[5, 7, 12.5, 18, 26, 'Ewa', 'Diana', 32]
